@@ -12,7 +12,7 @@ This page holds the list of relevant sources used in writing documents on this s
 - [D. Harel, Statecharts in the Making: A Personal Account](http://www.wisdom.weizmann.ac.il/~harel/papers/Statecharts.History.CACM.pdf)
 - [D. Harel and M. Politi, Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/~dharel/STM.Book/)
 - [D. Harel and H. Kugler, The Rhapsody Semantics of Statecharts](http://www.wisdom.weizmann.ac.il/~harel/papers/RhapsodySemantics.pdf)
-- [[Miro Samek, Application Note A Crash Course in UML State Machines](https://www.state-machine.com/doc/AN_Crash_Course_in_UML_State_Machines.pdf)
+- [Miro Samek, Application Note A Crash Course in UML State Machines](https://www.state-machine.com/doc/AN_Crash_Course_in_UML_State_Machines.pdf)
 - [Miro Samek, Practical UML Statecharts in C/C++ 2nd Edition](https://www.state-machine.com/psicc2/)
 - [F. Wagner, Modeling Software with Finite State Machines: A Practical Approach](http://www.stateworks.com/book/book/)
 - [statecharts.github.io/](https://statecharts.github.io/)
