@@ -12,7 +12,7 @@ Automation world heavily relies on IEC61131-3 languages for writing control appl
 - In order to keep _R_ energized current must flow through the coil. This means that engineering effort was focused on finding (and realizing) logic which will keep the coil energized. In other words, control is to find all cases (conditions) in which a state is active (coil energized)
 - Information is preserved if current is flowing through the coil. On the other hand, if current is cut information is lost. Both establishing the current (__SET__) and cutting it (__RESET__) is made in the same circuit. It can not be that __SET__ in in one and __RESET__ is in another place.
 
-
+![Ledder Diagram](../media/ledder.png)
 
 Purpose of tis document is to outline basic issue with using SET/RESET 
 
