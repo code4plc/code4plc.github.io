@@ -47,3 +47,7 @@ This page holds the list of relevant sources used in writing documents on this s
 - [MISRA-C:2004 Guidelines for the use of the C language in critical systems](https://www.misra.org.uk/)
 - [Edward A. Lee, The Problem with Threads](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf)
 - [Gerard J. Holzmann, The Power of Ten – Rules for Developing Safety Critical Code](http://spinroot.com/gerard/pdf/Power_of_Ten.pdf)
+
+## TCP/IP
+- [https://blog.stephencleary.com/2009/04/tcpip-net-sockets-faq.html](TCP/IPTutorial)
+
